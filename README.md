@@ -1,1 +1,1 @@
-# leaflet
+This repository contains a Frequently Ask Question of Team Algoritma about interactive maps using `leaflet`
